@@ -76,7 +76,7 @@ docker run -p 5000:5000 booking-qa
 ---
 
 ### 📬 Contact  
-For queries, feel free to reach out at **your-email@example.com**  
+For queries, feel free to reach out at **rashmihv100@gmail.com**  
 
 ---
 
